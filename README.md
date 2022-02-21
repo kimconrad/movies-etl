@@ -23,4 +23,4 @@ This project will:
 # Project Results
 -- Output: SQL database with movies and ratings tables, queries movies_query.png and ratings_query.png
 
-* Note: further troubleshooting needed for GitHub LFS large file storage for resources folder .csv files
+* Note: further troubleshooting needed using GitHub LFS Large File Storage for resources folder and .csv files
